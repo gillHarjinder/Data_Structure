@@ -5,3 +5,4 @@ Data Structure with C++
 - linear link list
 - binary trees
 - graphs
+- Binary Heap (minimum to max)
