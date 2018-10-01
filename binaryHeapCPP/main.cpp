@@ -1,9 +1,15 @@
 #include <iostream>
 
-using namespace std;
+#include "MinimumBinaryHeap.h"
 
-int main(int argc, char const *argv[])
+
+
+int main()
 {
-    cout << "Hello World" << endl;
+    MinimumBinaryHeap obj(2);
+    obj.insertElement(1);
+    obj.insertElement(3);
+    obj.display();
+    obj.dispay_Array();
     return 0;
 }

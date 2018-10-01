@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1538326565 source:c:\users\harjinder\desktop\git_projects\data_structure\binaryheapcpp\main.cpp
+	<iostream>
+	"MinimumBinaryHeap.h"
+
+1538327081 source:c:\users\harjinder\desktop\git_projects\data_structure\binaryheapcpp\src\minimumbinaryheap.cpp
+	"MinimumBinaryHeap.h"
+	<iostream>
+	<array>
+
+1538326697 c:\users\harjinder\desktop\git_projects\data_structure\binaryheapcpp\include\minimumbinaryheap.h
+
